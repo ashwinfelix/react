@@ -2,6 +2,21 @@
   text-align: center;
 }
 
+
+
+body {
+  background-image: url('./newimg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+ 
+}
+html, body {
+  height: 100%;
+  margin: 0; 
+}
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
